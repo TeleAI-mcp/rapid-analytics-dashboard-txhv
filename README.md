@@ -1,2 +1,3 @@
-# rapid-analytics-dashboard-txhv
-Automated issue comment bot repository
+# Rapid Analytics Dashboard Txhv
+
+Automated issue comment bot repository.
